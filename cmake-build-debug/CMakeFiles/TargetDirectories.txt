@@ -1,0 +1,3 @@
+/Users/mouad/Desktop/2024_projects/writing_my_own_compiler/cmake-build-debug/CMakeFiles/writing_my_own_compiler.dir
+/Users/mouad/Desktop/2024_projects/writing_my_own_compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mouad/Desktop/2024_projects/writing_my_own_compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
